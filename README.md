@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IAM Projects:</h2>
 
-- <b>Okta SAML SSO Integration</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Okta Projects</b>
+  - [SAML SSO Integrations](https://github.com/chrischaney218/okta-saml-sso-integration)
 - <b>SCIM Provisioning</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
